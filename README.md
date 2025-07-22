@@ -52,9 +52,15 @@ A fully object-oriented C++ console-based banking system, designed with clean ar
 
 ---
 
-<img width="489" height="356" alt="Transactionsscreen" src="https://github.com/user-attachments/assets/389ab5c3-dde3-4c35-afb3-3ec9bdf39b67" />
-<img width="397" height="412" alt="mainmenueinterface" src="https://github.com/user-attachments/assets/ae0b407f-8af6-451a-84a6-0c5fb504808a" />
-<img width="476" height="347" alt="Manage" src="https://github.com/user-attachments/assets/c6adcab5-8852-4287-8208-abbc6261ec45" />
-<img width="462" height="369" alt="Currency" src="https://github.com/user-attachments/assets/4697744d-60b6-4635-8c07-ad96851fbbc6" />
-<img width="876" height="453" alt="Login" src="https://github.com/user-attachments/assets/6ba83886-59f1-47d3-99e2-ce0c13a4214c" />
+<img width="876" height="453" alt="Login" src="https://github.com/user-attachments/assets/da4d17f4-4b57-474a-8a12-642f1359fd16" />
+
+<img width="462" height="369" alt="Currency" src="https://github.com/user-attachments/assets/b98f296d-499e-4576-bccb-acd766a83c4f" />
+
+<img width="476" height="347" alt="Manage" src="https://github.com/user-attachments/assets/08f32ca2-351f-453c-8280-99e360862aa6" />
+
+<img width="489" height="356" alt="Transactionsscreen" src="https://github.com/user-attachments/assets/60819246-681f-46a8-9169-a4eaaa1b017e" />
+
+
+
+
 
